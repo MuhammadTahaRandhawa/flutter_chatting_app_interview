@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196231333887",
+    "project_id": "chatting-interview-app",
+    "storage_bucket": "chatting-interview-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196231333887:android:5d32bda574d10f2d1109ca",
+        "android_client_info": {
+          "package_name": "com.chatting.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgX6iiAMP3bIpXfNSu0TOOD_xCej8NZak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196231333887:android:0f9e0ca0f15376861109ca",
+        "android_client_info": {
+          "package_name": "com.example.c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgX6iiAMP3bIpXfNSu0TOOD_xCej8NZak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
